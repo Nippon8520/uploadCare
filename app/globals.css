@@ -1,0 +1,10 @@
+.file-uploader uc-file-uploader-regular {
+  --uc-primary-oklch-light: 70% 0.235 146.65;
+}
+
+.file-uploader uc-file-uploader-regular uc-simple-btn button {
+  width: 500px;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+}
